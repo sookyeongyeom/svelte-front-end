@@ -20,17 +20,19 @@ Svelte에서는 컴포넌트 간 이벤트 버블링이 발생하지 않으므�
 이벤트가 발생하는 곳에서 createEventDispatcher라는 메소드를 이용해 이벤트를 만들고, 이것을 상위 컴포넌트로 전달한다.  
 이 때, 전달방향을 `하위 컴포넌트(이벤트 발생 컴포넌트) → 상위 컴포넌트`로 이해해야 한다.
 
-```javascript
-import { createEventDispatcher } from "svelte";
+```html
+<script>
+    import { createEventDispatcher } from "svelte";
 
-const dispatch = createEventDispatcher();
+    const dispatch = createEventDispatcher();
 
-// Dispatch 생성방법
-dispatch("add", {
-    value: "전달할 값",
-    message: "전달할 메시지",
-});
+    // Dispatch 생성방법
+    dispatch("add", {
+        value: "전달할 값",
+        message: "전달할 메시지",
+    });
+</script>
 
-// 전달방법
-<컴포넌트 이름 on:dispatch 이름 />;
+<!-- 전달방법 -->
+<컴포넌트 on:dispatch 이름 />;
 ```

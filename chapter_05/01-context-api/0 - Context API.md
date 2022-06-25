@@ -9,24 +9,26 @@
 
 ### 상위 계층
 
-```javascript
+```html
 <script>
-import {setContext} from 'svelte';
+    import { setContext } from "svelte";
 
-const setValues = {
-    a: 1,
-    b: 2
-};
+    const setValues = {
+        a: 1,
+        b: 2,
+    };
 
-setContext('키값', setValue);
+    setContext("키값", setValue);
 </script>
 ```
 
 ### 하위 계층
 
-```javascript
+```html
 <script>
-    import {getContext} from 'svelte'; const getValue = getContext('키값');
+    import { getContext } from "svelte";
+
+    const getValue = getContext("키값");
 </script>
 ```
 
