@@ -25,9 +25,9 @@ CHAPTER 01 - CHAPTER 07 ▶ 22.06.25 토
 
 ## CHAPTER 04 컴포넌트(2) - Template 제어
 
--   [ ] 논리블록
--   [ ] 반복블록
--   [ ] Binding
+-   [x] 논리블록
+-   [x] 반복블록
+-   [x] Binding
 -   [ ] 슬롯(Slot)
 -   [ ] 라이프사이클
 
