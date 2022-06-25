@@ -29,7 +29,7 @@ CHAPTER 01 - CHAPTER 07 ▶ 22.06.25 토
 -   [x] 반복블록
 -   [x] Binding
 -   [x] 슬롯(Slot)
--   [ ] 라이프사이클
+-   [x] 라이프사이클
 
 ## CHAPTER 05 컴포넌트 통신 고급
 
