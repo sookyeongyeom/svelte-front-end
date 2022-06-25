@@ -33,7 +33,7 @@ CHAPTER 01 - CHAPTER 07 ▶ 22.06.25 토
 
 ## CHAPTER 05 컴포넌트 통신 고급
 
--   [ ] context API
+-   [x] context API
 -   [ ] dispatch
 -   [ ] store
 
