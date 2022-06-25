@@ -1,5 +1,6 @@
 # 스벨트로 시작하는 웹 프론트엔드
 
+CHAPTER 01 - CHAPTER 07 ▶ 22.06.25 토
 
 ## CHAPTER 01 Svelte 소개
 - [X] 웹 프론트엔드의 과거와 현재
