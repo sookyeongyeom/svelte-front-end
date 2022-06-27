@@ -1,6 +1,7 @@
 # 스벨트로 시작하는 웹 프론트엔드
 
-CHAPTER 01 - CHAPTER 07 ▶ 22.06.25 토
+CHAPTER 01 - CHAPTER 04 ▶ 22.06.25 토 ✔️  
+CHAPTER 05 - CHAPTER 06 ▶ 22.06.27 월
 
 ## CHAPTER 01 Svelte 소개
 
