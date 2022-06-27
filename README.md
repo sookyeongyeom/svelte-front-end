@@ -35,7 +35,7 @@ CHAPTER 05 - CHAPTER 06 ▶ 22.06.27 월
 ## CHAPTER 05 컴포넌트 통신 고급
 
 -   [x] context API
--   [ ] dispatch
+-   [x] dispatch
 -   [ ] store
 
 ## CHAPTER 06 스타일 및 효과
