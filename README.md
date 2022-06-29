@@ -44,7 +44,7 @@ CHAPTER 11 - CHAPTER 14 ▶ 22.06.30 목
 
 -   [x] CSS 제어
 -   [x] transition: 화면전환
--   [ ] motion
+-   [x] motion
 -   [ ] actions
 
 ## CHAPTER 07 Modal로 배우는 컴포넌트 실습
