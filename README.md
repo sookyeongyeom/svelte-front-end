@@ -1,6 +1,6 @@
 # 스벨트로 시작하는 웹 프론트엔드
 
-CHAPTER 01 - CHAPTER 04 ▶ 22.06.25 토 ✔️   
+CHAPTER 01 - CHAPTER 04 ▶ 22.06.25 토 ✔️  
 CHAPTER 05 ▶ 22.06.27 월 ✔️  
 CHAPTER 06 - CHAPTER 10 ▶ 22.06.29 수  
 CHAPTER 11 - CHAPTER 14 ▶ 22.06.30 목
@@ -38,7 +38,7 @@ CHAPTER 11 - CHAPTER 14 ▶ 22.06.30 목
 
 -   [x] context API
 -   [x] dispatch
--   [ ] store
+-   [x] store
 
 ## CHAPTER 06 스타일 및 효과
 
