@@ -42,8 +42,8 @@ CHAPTER 11 - CHAPTER 14 ▶ 22.06.30 목
 
 ## CHAPTER 06 스타일 및 효과
 
--   [ ] CSS 제어
--   [ ] transition: 화면전환
+-   [x] CSS 제어
+-   [x] transition: 화면전환
 -   [ ] motion
 -   [ ] actions
 

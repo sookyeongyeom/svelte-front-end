@@ -1,5 +1,6 @@
 <script>
     import {crossfade} from 'svelte/transition';
+    import {flip} from 'svelte/animate';
 
     // 비구조화 할당 문법을 이용해 crossfade 내부의 send, receive를 선언
     const [send, receive] = crossfade({});
@@ -33,6 +34,7 @@
                 in:receive={{key: item}}
                 out:send={{key: item}}
                 on:click={()=>moveRight(item)}
+                animate:flip
                 >
                 {item}
             </button>
@@ -46,6 +48,7 @@
                 in:receive={{key: item}}
                 out:send={{key: item}}
                 on:click={()=>moveLeft(item)}
+                animate:flip={{duration: 1000}}
                 >
                 {item}
             </button>
