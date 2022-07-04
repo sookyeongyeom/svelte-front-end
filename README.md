@@ -58,8 +58,8 @@ CHAPTER 11 - CHAPTER 14 ▶ 22.06.30 목
 -   [X] Todo 리스트 출력
 -   [X] Todo 입력
 -   [X] Todo 삭제
--   [ ] Todo 수정
--   [ ] count & Todo 보기모드
+-   [X] Todo 수정
+-   [X] count & Todo 보기모드
 -   [ ] 화면전환 효과 적용
 -   [ ] 스토어를 통한 Todo 리팩토링
 
