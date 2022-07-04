@@ -51,11 +51,13 @@ CHAPTER 11 - CHAPTER 14 ▶ 22.06.30 목
 
 ## CHAPTER 08 실전 프로젝트(1) - Todo 서비스 만들기
 
--   [ ] Todo 프로젝트 설명
--   [ ] 컴포넌트 배치
--   [ ] Todo 리스트 출력
--   [ ] Todo 입력
--   [ ] Todo 삭제
+[**🍫 simple todo with svelte**](https://github.com/sookyeongyeom/todo-svelte)
+
+-   [X] Todo 프로젝트 설명
+-   [X] 컴포넌트 배치
+-   [X] Todo 리스트 출력
+-   [X] Todo 입력
+-   [X] Todo 삭제
 -   [ ] Todo 수정
 -   [ ] count & Todo 보기모드
 -   [ ] 화면전환 효과 적용
