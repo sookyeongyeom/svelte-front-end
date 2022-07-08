@@ -2,8 +2,6 @@
 
 CHAPTER 01 - CHAPTER 04 ▶ 22.06.25 토 ✔️  
 CHAPTER 05 ▶ 22.06.27 월 ✔️  
-CHAPTER 06 - CHAPTER 10 ▶ 22.06.29 수  
-CHAPTER 11 - CHAPTER 14 ▶ 22.06.30 목
 
 ## CHAPTER 01 Svelte 소개
 
@@ -51,7 +49,7 @@ CHAPTER 11 - CHAPTER 14 ▶ 22.06.30 목
 
 ## CHAPTER 08 실전 프로젝트(1) - Todo 서비스 만들기
 
-[**🍫 simple todo with svelte**](https://github.com/sookyeongyeom/todo-svelte)
+[**🍫 simple todo with svelte**](https://github.com/sookyeongyeom/svelte-todo)
 
 -   [X] Todo 프로젝트 설명
 -   [X] 컴포넌트 배치
@@ -60,19 +58,21 @@ CHAPTER 11 - CHAPTER 14 ▶ 22.06.30 목
 -   [X] Todo 삭제
 -   [X] Todo 수정
 -   [X] count & Todo 보기모드
--   [ ] 화면전환 효과 적용
--   [ ] 스토어를 통한 Todo 리팩토링
+-   [X] 화면전환 효과 적용
+-   [X] 스토어를 통한 Todo 리팩토링
 
 ## CHAPTER 09 라우터(Router)
 
--   [ ] 라우터란?
--   [ ] tinro 설치
--   [ ] 라우팅 기능
--   [ ] 중첩 라우팅
--   [ ] 파라미터 전달 및 받기
--   [ ] 프로그래밍 제어
--   [ ] 화면전환
--   [ ] 라우팅 가드
+[**🍫 router with tinro**](https://github.com/sookyeongyeom/svelte-router)
+
+-   [X] 라우터란?
+-   [X] tinro 설치
+-   [X] 라우팅 기능
+-   [X] 중첩 라우팅
+-   [X] 파라미터 전달 및 받기
+-   [X] 프로그래밍 제어
+-   [X] 화면전환
+-   [X] 라우팅 가드
 
 ## CHAPTER 10 서버와의 통신방법
 
