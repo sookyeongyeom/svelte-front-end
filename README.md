@@ -1,7 +1,7 @@
 # 스벨트로 시작하는 웹 프론트엔드
 
 CHAPTER 01 - CHAPTER 04 ▶ 22.06.25 토 ✔️  
-CHAPTER 05 ▶ 22.06.27 월 ✔️  
+CHAPTER 05 ▶ 22.06.27 월 ✔️
 
 ## CHAPTER 01 Svelte 소개
 
@@ -51,34 +51,34 @@ CHAPTER 05 ▶ 22.06.27 월 ✔️
 
 [**🍫 simple todo with svelte**](https://github.com/sookyeongyeom/svelte-todo)
 
--   [X] Todo 프로젝트 설명
--   [X] 컴포넌트 배치
--   [X] Todo 리스트 출력
--   [X] Todo 입력
--   [X] Todo 삭제
--   [X] Todo 수정
--   [X] count & Todo 보기모드
--   [X] 화면전환 효과 적용
--   [X] 스토어를 통한 Todo 리팩토링
+-   [x] Todo 프로젝트 설명
+-   [x] 컴포넌트 배치
+-   [x] Todo 리스트 출력
+-   [x] Todo 입력
+-   [x] Todo 삭제
+-   [x] Todo 수정
+-   [x] count & Todo 보기모드
+-   [x] 화면전환 효과 적용
+-   [x] 스토어를 통한 Todo 리팩토링
 
 ## CHAPTER 09 라우터(Router)
 
 [**🍫 router with tinro**](https://github.com/sookyeongyeom/svelte-router)
 
--   [X] 라우터란?
--   [X] tinro 설치
--   [X] 라우팅 기능
--   [X] 중첩 라우팅
--   [X] 파라미터 전달 및 받기
--   [X] 프로그래밍 제어
--   [X] 화면전환
--   [X] 라우팅 가드
+-   [x] 라우터란?
+-   [x] tinro 설치
+-   [x] 라우팅 기능
+-   [x] 중첩 라우팅
+-   [x] 파라미터 전달 및 받기
+-   [x] 프로그래밍 제어
+-   [x] 화면전환
+-   [x] 라우팅 가드
 
 ## CHAPTER 10 서버와의 통신방법
 
--   [ ] fetch를 이용한 통신
--   [ ] axios를 이용한 통신
--   [ ] {#await} 블록을 이용한 통신 제어
+-   [x] fetch를 이용한 통신
+-   [x] axios를 이용한 통신
+-   [x] {#await} 블록을 이용한 통신 제어
 
 ## CHAPTER 11 실전 프로젝트(2) - SNS 서비스 만들기
 
